@@ -12,3 +12,9 @@ Here we List a few useful commands in linux
 
 * mv moves files and directories
 
+* mkdir- Creates a new directory
+
+* touch [filename.txt] -creates a new file
+
+* cd .. - moves to the previousdirectory
+
